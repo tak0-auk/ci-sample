@@ -1,0 +1,7 @@
+[package]
+name = "ci-sample"
+version = "0.1.0"
+authors = ["tak0 <tak0auk@gmail.com>"]
+edition = "2018"
+
+[dependencies]
